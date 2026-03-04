@@ -27,7 +27,11 @@ If you clone the repo with https, you'll have to enter your password/PAT (Person
 4. Configure the Obsidian git plugin
 	1. Auto commit-and-sync interval: 10 minutes (until we prove otherwise)
 	2. Enable "Pull on Startup"
+	3. Update the commit messages for auto/manual commits. Suggestion: `notes updated on {{date}}: {{files}}`
 
 You can access git commands via the Obsidian command palette (Ctrl + P). A common command to make sure your latest edits are saved off-schedule would be "Git: commit-and-sync".
 
+There is also an option on the side to see the git source control on the side.
+
 ## Publishing Notes
+Need to do this: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site and update here on how often the github action will run, etc.
