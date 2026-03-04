@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1d0d6560d8d8879",
+        "id": "e90b03cc7e553608",
         "type": "tabs",
         "children": [
           {
-            "id": "d458c12efd5715a4",
+            "id": "9f9291dc7391b5f8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -190,10 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d458c12efd5715a4",
+  "active": "9f9291dc7391b5f8",
   "lastOpenFiles": [
+    "Campaign Notes/Sessions/Session 0 - In Which We Break the GM, Part 1.md",
+    "Campaign Notes/index.md",
     "README.md",
-    "Untitled",
+    "Campaign Notes",
+    "Campaign Notes/Loot",
+    "Campaign Notes/Characters",
+    "Campaign Notes/Sessions",
     "Untitled.md"
   ]
 }
